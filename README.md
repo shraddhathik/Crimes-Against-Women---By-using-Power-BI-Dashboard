@@ -5,11 +5,14 @@ The project would likely aim to provide insights that can help policymakers, law
 
 # Methodology
 Data Collection:
-Sourced from government reports, police records, and NGOs.
+Sourced from kaggale.
 Data includes reported incidents, demographic information, and geographic locations.
+
 Data Cleaning:
 Ensured accuracy and consistency in the dataset.
-Analysis Tools: Utilized Power BI for data visualization and analysis.
+
+Analysis Tools: 
+Utilized Power BI for data visualization and analysis.
 
 1. Bar Chart - To compare the frequency of different types of crimes against women.
 2. Line chart - To illustrate trends in crime rates over time.
